@@ -1,7 +1,7 @@
 ---
 author: Stephel Maca
 pubDatetime: 2024-10-01T15:57:52.737Z
-title: Product Thinking
+title: Wake Up to Product Thinking
 slug: product-thinking
 featured: true
 ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
@@ -10,7 +10,7 @@ tags:
 description: Hey Developers, Wake Up to Product Thinking! is a blunt wake-up call urging coders to look beyond their screens and start thinking about the real-world impact of their work.
 ---
 
-# Hey Developers, Wake Up to Product Thinking
+# Hey Fellow Devs, Wake Up to Product Thinking
 
 Look, I get it. You love code. You dream in algorithms. Your idea of a good time is optimizing a database query. But here's the thing: if you're not thinking about the product, you're missing the point.
 
