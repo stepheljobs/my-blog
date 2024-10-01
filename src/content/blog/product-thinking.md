@@ -7,7 +7,7 @@ featured: true
 ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
   - release
-description: AstroPaper with the enhancements of Astro v2. Type-safe markdown contents, bug fixes and better dev experience etc.
+description: Hey Developers, Wake Up to Product Thinking! is a blunt wake-up call urging coders to look beyond their screens and start thinking about the real-world impact of their work.
 ---
 
 # Hey Developers, Wake Up to Product Thinking
