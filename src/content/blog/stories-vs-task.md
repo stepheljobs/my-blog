@@ -8,7 +8,8 @@ ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2
 tags:
   - user-stories
   - value-delivery
-description: Hey Developers, Wake Up to Product Thinking! is a blunt wake-up call urging coders to look beyond their screens and start thinking about the real-world impact of their work.
+description: For the past year, we've been reporting our progress to stakeholders through JIRA tickets. The idea was to be granular, to show the specific activities we're working on. But here's the thing~ are we really providing value this way?
+
 ---
 
 # Rethinking How We Deliver Progress - From Tasks to Stories
