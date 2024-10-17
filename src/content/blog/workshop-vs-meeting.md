@@ -1,14 +1,17 @@
 ---
 author: Stephel Maca
-pubDatetime: 2024-10-17T15:57:52.737Z
+pubDatetime: 2024-10-17T07:44:52.737Z
 title: Workshop vs Meeting
 slug: workshop-vs-meeting
 featured: true
 ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
   - tips
-description: Workshops, Not Meetings: A Small Change That Actually Matters - how a simple word swap can transform team dynamics
---- 
+  - process
+  - improvements
+description: workshops not meetings a small change that actually matters how a simple word swap can transform team dynamics
+
+---
 
 # workshops, not meetings: a small change that actually matters
 
