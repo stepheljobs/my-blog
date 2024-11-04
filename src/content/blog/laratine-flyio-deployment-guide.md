@@ -5,7 +5,7 @@ title: Deploying Laratine Template to Fly.io - A Step-by-Step Guide
 slug: laratine-flyio-deployment-guide
 featured: true
 published: false
-ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
+ogImage: https://iili.io/2xTBIfa.png
 tags:
   - laravel
   - fly.io
@@ -23,6 +23,8 @@ Why Fly.io? The platform's simplicity in deployment allows developers to minimiz
 
 During my exploration, I discovered Laratine—a Laravel template that integrates React through Inertia.js. This combination particularly appealed to me as it leverages React for the frontend, a technology I'm deeply familiar with, while maintaining Laravel's robust backend capabilities. The result is a perfect stack for rapid application development.
 This guide documents my process of deploying the Laratine template to Fly.io, transforming what started as a coffee shop experiment into a reusable deployment workflow.
+
+![Alt text](https://iili.io/2xTBIfa.png "dashboard sample")
 
 ## Prerequisites
 
